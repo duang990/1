@@ -1,1 +1,6 @@
-
+payload:
+  - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,misakaf
+  - DOMAIN-KEYWORD,monisaiche
+  - DOMAIN-SUFFIX,vodka.monisaiche.cn
+  - DOMAIN-SUFFIX,eu.org
