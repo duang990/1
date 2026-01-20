@@ -63,6 +63,7 @@ rule-providers:
 rules:
   - DOMAIN-SUFFIX,115cdn.net,DIRECT
   - DOMAIN,cloud.s1.xxzi.top,DIRECT
+  - DOMAIN,frpwf.xhyonline.com,DIRECT
   - DOMAIN-SUFFIX,455676.xyz,DIRECT
   - RULE-SET,AdBlock,AdBlock
   - RULE-SET,OpenAi,OpenAi
@@ -84,3 +85,4 @@ rules:
   - RULE-SET,Download,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+
