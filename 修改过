@@ -84,3 +84,9 @@ rules:
   - RULE-SET,Download,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+proxy-providers:
+vip:
+   interval: 1440
+   url: https://gist.githubusercontent.com/duang990/3e47daf7469dfa11de81f560fd81d545/raw/vip
+
+
