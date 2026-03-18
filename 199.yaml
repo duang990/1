@@ -61,8 +61,15 @@ rule-providers:
 
 # 分流Policy 
 rules:
+  - DOMAIN-SUFFIX,jmsuper.com,狮城节点
   - DOMAIN-SUFFIX,115cdn.net,DIRECT
   - DOMAIN,cloud.s1.xxzi.top,DIRECT
+  - DOMAIN,stark.emby857.xyz,DIRECT
+  - DOMAIN,us.emby857.xyz,DIRECT
+  - DOMAIN,233778.xyz,DIRECT
+  - DOMAIN,cdn.lilyemby.com,DIRECT
+  - DOMAIN,cdn.monisaiche.cn,DIRECT
+  - DOMAIN-SUFFIX,monisaiche.cn,DIRECT
   - DOMAIN,frpwf.xhyonline.com,DIRECT
   - DOMAIN-SUFFIX,455676.xyz,DIRECT
   - RULE-SET,AdBlock,AdBlock
